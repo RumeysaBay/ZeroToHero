@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e031f5b-67fa-4a65-8a64-fce5fdf9bde1" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +12,23 @@
   </component>
   <component name="ProjectId" id="1PF9JctbZdTGu5BUbbFtUp59Q6A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -39,6 +43,14 @@
       <option name="presentableId" value="Default" />
       <updated>1565458907632</updated>
     </task>
+    <task id="LOCAL-00001" summary="zero">
+      <created>1576109921342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576109921343</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -46,10 +58,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zero" />
+    <option name="LAST_COMMIT_MESSAGE" value="zero" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="227" y="23" key="CommitChangelistDialog2" timestamp="1576109920753">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="227" y="23" key="CommitChangelistDialog2/0.23.1366.745@0.23.1366.745" timestamp="1576109920753" />
+    <state x="137" y="86" key="DiffContextDialog" timestamp="1576109907615">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="137" y="86" key="DiffContextDialog/0.23.1366.745@0.23.1366.745" timestamp="1576109907615" />
+    <state x="183" y="72" key="Vcs.Push.Dialog.v2" timestamp="1576109949631">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="183" y="72" key="Vcs.Push.Dialog.v2/0.23.1366.745@0.23.1366.745" timestamp="1576109949631" />
+    <state x="266" y="150" key="git4idea.merge.GitPullDialog" timestamp="1576109930882">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="266" y="150" key="git4idea.merge.GitPullDialog/0.23.1366.745@0.23.1366.745" timestamp="1576109930882" />
   </component>
 </project>
