@@ -13,6 +13,9 @@
   </component>
   <component name="ProjectId" id="1PF9JctbZdTGu5BUbbFtUp59Q6A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
