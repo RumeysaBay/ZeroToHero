@@ -1,4 +1,5 @@
+# intelliJ IDE
 .idea
 *.iml
-target
-*.class
+target/
+**/**.class
